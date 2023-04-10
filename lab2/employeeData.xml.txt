@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="emp.css" ?>
+<employee>
+<emp>
+<name>name1</name>
+<phones>
+<phone type="home">phone1</phone>
+<phone type="work">phone2</phone>
+<phone type="mobile">phone3</phone>
+</phones>
+<addresses>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+</addresses>
+<email>email</email>
+</emp>
+<emp>
+<name>name1</name>
+<phones>
+<phone type="home">phone1</phone>
+<phone type="work">phone2</phone>
+<phone type="mobile">phone3</phone>
+</phones>
+<addresses>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+</addresses>
+<email>email</email>
+</emp>
+<emp>
+<name>name1</name>
+<phones>
+<phone type="home">phone1</phone>
+<phone type="work">phone2</phone>
+<phone type="mobile">phone3</phone>
+</phones>
+<addresses>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+</addresses>
+<email>email</email>
+</emp>
+<emp>
+<name>name1</name>
+<phones>
+<phone type="home">phone1</phone>
+<phone type="work">phone2</phone>
+<phone type="mobile">phone3</phone>
+</phones>
+<addresses>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+<address >
+<street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+<city>city</city>
+<country>country</country>
+</address>
+</addresses>
+<email>email</email>
+</emp>
+</employee>
