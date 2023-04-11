@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D:/ITI/xml/lab3/task1/employee.xsd">
+	<emp>
+		<name>asmaa</name>
+		<phones>
+			<phone type="home">12345678958</phone>
+			<phone type="work">12548796368</phone>
+			<phone type="mobile">1247859658</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>street</street>
+				<buildingNo>10</buildingNo>
+				<region>miami</region>
+				<city>alexandria</city>
+				<country>egypt</country>
+			</address>
+		</addresses>
+		<email>asmaa@gmail.com</email>
+	</emp>
+	<emp>
+		<name>yara</name>
+		<phones>
+			<phone type="home">12458968793</phone>
+			<phone type="work">14859687523</phone>
+			<phone type="mobile">14758963257</phone>
+		</phones>
+		<addresses>
+			<address>
+				<street>street</street>
+				<buildingNo>10</buildingNo>
+				<region>miami</region>
+				<city>alexandria</city>
+				<country>egypt</country>
+			</address>
+		</addresses>
+		<email>yara@gmail.com</email>
+	</emp>
+</employee>
